@@ -1,0 +1,64 @@
+
+ul{
+    padding: 0px;
+    border: 2px solid blue;
+    list-style-type: none;
+}
+li{padding: 2em;}
+.a{
+    background-color: rgb(232, 19, 165);
+}
+
+.b{
+    background-color: rgb(255, 240, 251);
+}
+
+.c{
+    background-color: rgb(165, 34, 185);
+}
+
+.d{
+    background-color: blueviolet;
+}
+.e{
+    background-color: brown;
+}
+.f{
+    background-color: bisque;
+}
+
+.flex1{
+    display: flex;
+}
+
+.flex2{
+    flex-direction: row-reverse;
+    display: flex;
+}
+.a{
+    background-color: brown;
+}
+.b{
+    background-color: blueviolet;
+}
+
+.flex3{
+    flex-direction: row-reverse;
+}
+
+.flex4{
+    display:flex;
+    flex-wrap: wrap; width: 240px;
+
+}
+.flex5.b
+{line-height:em;
+}
+
+.flex5{display:flex
+    align
+}
+.flex6{
+    display: flex;
+    justify-content: space-around
+}
